@@ -1,0 +1,78 @@
+body {
+  background: url("../img/create_account_img/bg_c_a.png");
+}
+
+.row-regist {
+  height: 370px;
+  background: linear-gradient(to top, #ffffff 0%, #ebf4f4 100%), #ffffff;
+  width: 50%;
+  border: 1px solid #cfdede;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.03);
+}
+
+.col-regist {
+  height: 25px;
+  text-transform: uppercase;
+  color: #ffffff;
+  background-color: #01b3b3;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  font-size: 18px;
+  letter-spacing: -0.12px;
+  font-family: "Arial - Bold MT";
+}
+
+.container {
+  margin-top: 7%;
+  margin-bottom: 5%;
+}
+
+span {
+  color: #01b3b3;
+}
+
+input {
+  background: url("../img/create_account_img/bg_c_a.png");
+  color: #01b3b3;
+}
+
+input:focus {
+  background: lightyellow;
+  border: 2px solid #01b3b3;
+  outline: none;
+}
+
+p {
+  color: #333333;
+  font-family: "Arial - Bold MT";
+  text-align: left;
+  font-size: 15px;
+}
+
+.form-btn {
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+  color: #ffffff;
+  font-family: "Arial - Bold MT";
+  font-size: 16px;
+  text-align: center;
+  text-transform: uppercase;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.2), inset 0 1px 2px #ffffff;
+  border: 1px solid #dcdcdc;
+  background-color: #01b3b3;
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.24) 0%, rgba(255, 255, 255, 0.24) 100%);
+}
+
+.rowstr {
+  position: relative;
+  z-index: 2;
+  top: 20px;
+  right: 12.2%;
+}
+
+@media (max-width: 1000px) {
+  .rowstr {
+    position: relative;
+    z-index: 2;
+    top: 20px;
+    right: 0;
+  }
+}
