@@ -1,5 +1,5 @@
-# Гасанян Дмитрий
-Мои учебные проекты:
+# Dmitry
+My first projects:
 
 [Adaptive](https://dmitry1721.github.io/adaptive/ "adaptive") - Работа с адаптивом на флексах
 
