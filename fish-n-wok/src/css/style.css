@@ -433,7 +433,7 @@ li:last-child{
     background: url("../images/all/line.svg") right no-repeat, url("../images/all/space.png");
 }
 .footer__content{
-    padding: 11% 9%;
+    padding: 12% 9%;
 }
 .footer__contacts{
     font-family: 'PT Serif', serif;
@@ -709,7 +709,7 @@ li:last-child{
         padding: 3% 0 3% 10%;
     }
     .footer__content {
-        padding: 12% 0;
+        padding: 14% 0;
     }
     .footer__title {
         font-size: 24px;
