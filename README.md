@@ -11,5 +11,5 @@ My first projects:
 
 [Create_Account](https://dmitry1721.github.io/create_account/ "create_account") -  Регистрационная форма
 
-[Fish_N_Wok](https://dmitry1721.github.io/project1/src/ "project1")
+[Fish-N-Wok](https://dmitry1721.github.io/fish-n-wok/src/ "fish-n-wok")
 
