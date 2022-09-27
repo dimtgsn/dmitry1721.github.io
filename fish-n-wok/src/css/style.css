@@ -828,7 +828,7 @@ li:last-child{
 
 @media (max-width: 528px) {
     .header__main{
-        margin-top: 48px;
+        margin-top: 44px;
     }
     .logo_img {
         width: 40px;
@@ -845,7 +845,7 @@ li:last-child{
         top: 24%;
     }
     .hashtag__text{
-        padding-bottom: 25px;
+        padding-bottom: 28px;
     }
     .menu {
         height: 24px;
