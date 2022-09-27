@@ -909,7 +909,7 @@ li:last-child{
         height: 40px;
     }
     .section__container {
-        padding: 40px 0;
+        padding: 30px 0;
     }
     .logo_title{
         font-size: 27px;
@@ -922,7 +922,7 @@ li:last-child{
         top: 20%;
     }
     .hashtag__text{
-        padding-bottom: 25px;
+        padding-bottom: 42px;
     }
     .menu {
         height: 24px;
