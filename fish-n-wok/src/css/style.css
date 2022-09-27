@@ -828,7 +828,7 @@ li:last-child{
 
 @media (max-width: 528px) {
     .header__main{
-        margin-top: 40px;
+        margin-top: 48px;
     }
     .logo_img {
         width: 40px;
