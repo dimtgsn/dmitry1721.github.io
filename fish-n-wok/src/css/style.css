@@ -775,6 +775,12 @@ li:last-child{
     .order{
         height: 30px;
     }
+    .contacts__text{
+        font-size: 14px;
+    }
+    .content__title{
+        font-size: 16px;
+    }
     .logo_title {
         font-size: 30px;
     }
