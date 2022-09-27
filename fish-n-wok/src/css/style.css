@@ -203,7 +203,7 @@ li:last-child{
 }
 .about__container{
     background: url("../images/about/bowl_about.png") no-repeat center top;
-    padding: 0 1%;
+    padding: 2% 1%;
     position: relative;
 }
 .about__head{
@@ -268,6 +268,9 @@ li:last-child{
 .menu__items{
     width: 100%;
     display: flex;
+}
+.menu__container{
+    padding: 3% 0;
 }
 .menu__blocks::-webkit-scrollbar {
     width: 1px;
@@ -346,7 +349,7 @@ li:last-child{
 
 }
 .contacts__container{
-    padding: 3% 9%;
+    padding: 7% 9%;
 }
 .contacts__text{
     font-family: 'Open Sans', sans-serif;
@@ -386,7 +389,7 @@ li:last-child{
     background: url("../images/all/line.svg")  no-repeat, url("../images/all/space.png");
 }
 .gallery__container{
-    padding: 3% 0 3% 12%;
+    padding: 3% 12%;
 }
 .gallery__title{
     font-family: 'PT Serif', serif;
@@ -511,6 +514,9 @@ li:last-child{
     .logo_img{
         width: 50px;
         height: 50px;
+    }
+    .footer__contacts{
+        font-size: 16px;
     }
     .menu__item_block{
         padding: 0;
@@ -703,10 +709,10 @@ li:last-child{
         width: 190px;
     }
     .contacts__container{
-        padding: 3% 0;
+        padding: 7% 0;
     }
     .gallery__container {
-        padding: 3% 0 3% 10%;
+        padding: 7% 10%;
     }
     .footer__content {
         padding: 14% 0;
@@ -772,14 +778,14 @@ li:last-child{
         width: 45px;
         height: 45px;
     }
-    .order{
-        height: 30px;
-    }
     .contacts__text{
         font-size: 14px;
     }
     .content__title{
         font-size: 16px;
+    }
+    .order{
+        height: 30px;
     }
     .logo_title {
         font-size: 30px;
@@ -904,6 +910,12 @@ li:last-child{
     }
     .item_text, .item_subtext {
         font-size: 9px;
+    }
+    h2{
+        font-size: 25px;
+    }
+    h1{
+        font-size: 29px;
     }
     
 }
