@@ -27,6 +27,7 @@ html::-webkit-scrollbar-track {
 body{
     height: 100%;
     max-width: 100%;
+    overflow-x: hidden;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
     background: #0C0B08 url("../images/all/line.svg") no-repeat;
