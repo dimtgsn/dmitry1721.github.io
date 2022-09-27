@@ -904,6 +904,9 @@ li:last-child{
 }
 
 @media (max-width: 528px) {
+    .header__main{
+        margin-top: 40px;
+    }
     .logo_img {
         width: 40px;
         height: 40px;
